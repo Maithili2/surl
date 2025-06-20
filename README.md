@@ -4,6 +4,8 @@
 
 **URL Genie** is your magical solution\! This simple yet powerful URL shortener allows you to transform lengthy web addresses into concise, shareable links. Whether it's for social media, marketing campaigns, or just tidying up your browser, URL Genie makes your links work smarter, not harder.
 
+## Demo Video
+
 -----
 
 ## Key Features
@@ -42,7 +44,7 @@ URL Genie is built with Python and Flask, using SQLite for its database. It's de
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/prafulsirgit/surl.git
+    git clone https://github.com/Maithili2/surl.git
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -133,6 +135,6 @@ This project is licensed under the [MIT License](#).
 
 Have questions or just want to say hi? Feel free to reach out\!
 
-  * **GitHub:** [prafulsirgit](https://github.com/prafulsirgit)
+  * **GitHub:** [Maithili Kotpalliwar](https://github.com/Maithili2)
 
 -----
